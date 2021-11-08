@@ -23,10 +23,10 @@
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": true,
-        "isGhostButtonBorder": true,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -45,7 +45,7 @@
     "uniqCompNum": 65,
     "versionPublish": "5.4.0",
     "favicon": false,
-    "mbrsiteDomain": "kgvlqf98zb",
+    "mbrsiteDomain": "vxnup719jo",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
