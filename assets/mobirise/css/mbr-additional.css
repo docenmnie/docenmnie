@@ -1065,6 +1065,24 @@ a {
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
+.cid-sOR20iwgdk {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sOR20iwgdk .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sOR20iwgdk img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sOR20iwgdk .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sOcyC1iwKq {
   padding-top: 0rem;
   padding-bottom: 2rem;
