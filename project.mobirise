@@ -45,7 +45,7 @@
     "uniqCompNum": 77,
     "versionPublish": "5.4.0",
     "favicon": false,
-    "mbrsiteDomain": "9hljtumz4u",
+    "mbrsiteDomain": "qjin5uzp36",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -61,7 +61,7 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "Używamy plików cookie, aby zapewnić jak najlepsze wrażenia. Sprawdź <a href='privacy.html'>polityka prywatności</a>.",
-      "textButton": "Agree"
+      "textButton": "Akceptuj"
     },
     "gdpr": false,
     "screenshot": "screenshot.png",
