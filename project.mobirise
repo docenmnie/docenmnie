@@ -45,16 +45,18 @@
     "uniqCompNum": 77,
     "versionPublish": "5.4.0",
     "favicon": false,
-    "mbrsiteDomain": "r1jffgdpqd",
+    "mbrsiteDomain": "ezyyqv3rv7",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-CM0Q6W87QM\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-CM0Q6W87QM');\n</script>"
   },
   "pages": {
     "index.html": {
@@ -1253,7 +1255,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Timeline",
+        "title": "Oś czasu",
         "order": 2
       },
       "components": [
